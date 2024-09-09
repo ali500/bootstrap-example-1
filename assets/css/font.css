@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'Estedad';
+  src: url('../font/Estedad[KSHD,wght].woff2')
+      format('woff2 supports variations'),
+    url('../font/Estedad[KSHD,wght].woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* wght */
+.font-v-thin {
+  font-variation-settings: 'wght' 100;
+}
+.font-v-extralight {
+  font-variation-settings: 'wght' 200;
+}
+.font-v-light {
+  font-variation-settings: 'wght' 300;
+}
+.font-v-normal {
+  font-variation-settings: 'wght' 400;
+}
+.font-v-medium {
+  font-variation-settings: 'wght' 500;
+}
+.font-v-semibold {
+  font-variation-settings: 'wght' 600;
+}
+.font-v-bold {
+  font-variation-settings: 'wght' 700;
+}
+.font-v-extrabold {
+  font-variation-settings: 'wght' 800;
+}
+.font-v-black {
+  font-variation-settings: 'wght' 900;
+}
+
+/* KSHD */
+.font-k-1 {
+  font-variation-settings: 'KSHD' 100;
+}
+.font-k-2 {
+  font-variation-settings: 'KSHD' 110;
+}
+.font-k-3 {
+  font-variation-settings: 'KSHD' 120;
+}
+.font-k-4 {
+  font-variation-settings: 'KSHD' 130;
+}
+.font-k-5 {
+  font-variation-settings: 'KSHD' 140;
+}
+.font-k-6 {
+  font-variation-settings: 'KSHD' 150;
+}
+.font-k-6 {
+  font-variation-settings: 'KSHD' 160;
+}
+.font-k-8 {
+  font-variation-settings: 'KSHD' 170;
+}
+.font-k-9 {
+  font-variation-settings: 'KSHD' 180;
+}
+.font-k-10 {
+  font-variation-settings: 'KSHD' 190;
+}
+.font-k-11 {
+  font-variation-settings: 'KSHD' 200;
+}
